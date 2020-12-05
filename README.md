@@ -1,2 +1,2 @@
 # Alian-War-Game
-Game Project using html and javascript 
+Game Project using javascript 
